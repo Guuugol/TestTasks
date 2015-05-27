@@ -3,8 +3,6 @@
 
 #include "stdafx.h"
 #include <vector>
-#include "stdio.h"
-#include "conio.h"
 #include <math.h>
 #include <iostream>
 #include <iomanip>
