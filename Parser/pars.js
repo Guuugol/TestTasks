@@ -69,7 +69,7 @@ var parser = function ()
 
     };
 
-    var addNewTypes = function(filetype, newParser)
+    var addNewType = function(filetype, newParser)
     {
         knownTypes[filetype] = newParser;
     };
