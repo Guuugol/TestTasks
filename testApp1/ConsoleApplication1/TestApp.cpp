@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 #include <vector>
-#include <math.h>
+#include "math.h"
 #include <iostream>
 #include <iomanip>
 
